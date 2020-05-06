@@ -2,7 +2,7 @@
 
 A C++ application using file system for E tutorial.
 
-#DESCRIPTION
+# DESCRIPTION
 A void COUT(char *Print,int x=10)-takes the string and the delaytime and prints the string character by
 character with delay of x(by default 10).
 void output(int m,int n,int x,int y)-to put inner border;m rows ,n pickel wide, and starting coordinate of
@@ -53,5 +53,5 @@ void doubt(char *subno)-to update the doubt so that admin can read it.
 void display_sub()-to display all the details or enable to search by subscriber
 number/username/subscriber status.
 
-#How to run
+# How to run
 Download turbo-cpp and run with it
